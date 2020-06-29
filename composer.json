@@ -9,10 +9,6 @@
 			"email": "oo@xif.at"
 		}
 	],
-	"require": {
-		"php": ">=5.4.0",
-		"illuminate/database": "5.0.*||5.1.*||5.2.*"
-	},
 	"autoload": {
 		"psr-4": {
 			"Ooxif\\LaravelQueryParam\\": "src/Ooxif/LaravelQueryParam"
